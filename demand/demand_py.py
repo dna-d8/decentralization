@@ -1,8 +1,8 @@
 import pandas as pd
 import os
 
-in_path = "/run/media/d8/D8_HD/D/Sem_3/Oz/decentralization/input_data/"
-out_path = "/run/media/d8/D8_HD/D/Sem_3/Oz/output_data/"
+in_path = "path"
+out_path = "path"
 
 # file_name = "profile.csv"
 
